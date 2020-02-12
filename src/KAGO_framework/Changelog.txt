@@ -1,0 +1,7 @@
+
+--- Version 3.1b ---
+ # Methoden für das Entfernen und Hinzufügen von Drawables und Interactables
+   korrigiert (zwei Methoden fehlten und durch die Überladung bei gleichzeitig
+   implementierbaren Interfaces kam es zu Problemen)
+
+--- Version 3.0b: Startversion ---
