@@ -11,10 +11,16 @@ public class Datenmanager {
     private int anzahlVertauschungen;
     private double benoetigteZeit;
 
+    /**
+     * Erzeugt ein neues Objekt (es wird nur eins benötigt)
+     */
     public Datenmanager(){
         reset();
     }
 
+    /**
+     * Setzt alle Zähler für die Algorithmen zurück
+     */
     private void reset(){
         anzahlVergleiche = 0;
         anzahlVertauschungen = 0;
