@@ -18,7 +18,7 @@ import java.awt.event.MouseEvent;
 public class ProgramController {
 
     // Attribute
-    private int tokenCount = 10;
+    private int tokenCount = 25;
     private final int radius = 35;
     private final int maxKey = 100;
     private int currentKey, foundIndex;
